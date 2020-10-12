@@ -7,7 +7,12 @@ nota: si lo esta visualizando desde una computadora **se recomienda colocar la v
 📌 [CLICK AQUÍ PARA IR A LA APLICACIÓN](https://tinder-clone-f089c.web.app/)
 ---
 ### Hecho con:
- ✔️ REACT (frontend y backend)
+ ✔️ REACT y REACT-ROUTER (frontend y backend)
  
  
  ✔️ Firebase (database y hosting)
+
+
+### Funcionalidades implementadas resaltantes 💻:
+- Navegación tipo Single Page (uso de REACT-ROUTER).
+- Envio de mensajes del usuario dentro del entorno del chat.
