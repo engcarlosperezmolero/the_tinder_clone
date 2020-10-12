@@ -7,10 +7,12 @@ nota: si lo esta visualizando desde una computadora **se recomienda colocar la v
 📌 [CLICK AQUÍ PARA IR A LA APLICACIÓN](https://tinder-clone-f089c.web.app/)
 ---
 ### Hecho con:
- ✔️ REACT y REACT-ROUTER (frontend y backend)
+ ✔️ REACT y REACT-ROUTER (frontend)
  
  
  ✔️ Firebase (database y hosting)
+ 
+ ✔️ Node.js (backend)
 
 
 ### Funcionalidades implementadas resaltantes 💻:
